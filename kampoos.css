@@ -1,0 +1,203 @@
+/* KAMPOOS */
+/* sidebar */
+.sidebar {
+    height: 100%;
+    width: 70px;
+    position: fixed;
+    text-align: center;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 217, 0);
+    overflow-x: hidden;
+    padding-top: 8px;
+  }
+  .sidebar a {
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    display: block;
+  }
+  
+/* navbar */
+.navbarr{
+  padding: 1rem;
+  margin-left: 4rem;
+  background-color: white;
+  border-bottom: 0.5px solid gray;
+}
+.navbarr a{
+  text-decoration: none;
+  color: gray;
+}
+.navbarr span img{
+  color: gray;
+  width: 2px;
+  height: 30px;
+}
+.navbarr button{
+  border-radius: 3rem;
+  width: 7rem;
+}
+.navbarr img{
+    width: 100px;
+}
+.navbarr .ss{
+    margin-left: 60%;
+    padding: 1rem;
+}
+/* content1 */
+.ct1{
+    padding: 2rem; 
+    margin-left: 4rem;
+}
+.ct1 img{
+  box-shadow: 1px 1px 8px gray;
+}
+/* content2 */
+.ct2{
+  margin-left: 4rem;
+}
+.ct2 p{
+  color: rgb(90, 90, 90);
+}
+.ct2 a{
+  text-decoration: none;
+  color: black;
+}
+.ct2 .card-body{
+  height: 90px;
+  box-shadow: 1px 1px 4px gray;
+}
+.ct2 img{
+  box-shadow: 1px 0px 1px 1px gray;
+}
+.transisi{
+  transform: scale(1.1);
+  transition: tranform 0.3s;
+}
+/* content3 */
+.ct3{
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+.ct3 .ct33{
+  color: black;
+}
+.ct3 .card-body{
+  height: 250px;
+}
+.ct3 a{
+  text-decoration: none;
+  color: #61ce70;
+  font-size: 13px;
+  font-weight: bolder;
+}
+.ct3 p{
+  color: rgb(90, 90, 90);
+}
+.ct3 .btn-alert{
+  border-radius: 20px;
+  border: 0px;
+  background-color: rgb(213, 255, 203);
+  color: rgb(6, 209, 6);
+}
+/* content4 */
+.ct4{
+  margin-left: 4rem;
+  margin-top: 3rem;
+}
+.ct4 a{
+  text-decoration: none;
+  color: black;
+}
+.ct4 .card{
+  height: 280px;
+  box-shadow: 0px 0px 5px 1px rgb(209, 209, 209);
+}
+.ct4 .row p{
+  font-size: 12px;
+  color: gray;
+}
+.footer p{
+  margin-left: 2rem;
+  margin-top: 2rem;
+  color: darkgray;
+}
+
+/* NEWS PAGE2 */
+.ctt1 {
+  margin-left: 4rem;
+  margin-top: 3rem;
+}
+.ctt1 #more{
+  color: #61ce70;
+  font-weight: bold;
+  font-size: 13px;
+}
+.ctt1 a{
+  text-decoration: none;
+  color: black;
+}
+.ctt1 p{
+  color: rgb(90, 90, 90);
+}
+.ctt1 .card-body{
+  height: 270px;
+}
+.sidebar .news{
+  color: white;
+}
+
+/* NEW PAGE3 */
+.sidebar .cap{
+  color: white;
+}
+.ctt2{
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
+.ctt2 p{
+  color: rgb(90, 90, 90);
+}
+.ctt2 .h1{
+  text-align: center;
+  color: rgb(82, 79, 79);
+  margin-top: 4rem;
+}
+.ctt2 .h11{
+  text-align: center;
+  color: rgb(82, 79, 79);
+  margin-top: 5rem;
+}
+.ctt2 a{
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+.ctt2 #more{
+  color: #61ce70;
+  font-size: 13px;
+}
+.ctt2 span{
+  color: rgb(255, 217, 0);;
+}
+.ctt2 .p{
+  font-size: 20px;
+  text-align: center;
+}
+.ctt2 .p1{
+  text-align: center;
+}
+.ctt2 .card-body{
+  height: 250px;
+}
+.ctt2 .bdy{
+  height: 120px;
+}
+.ctt2 .bdy{
+  height: 200px;
+}
+
+
